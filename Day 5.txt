@@ -1,0 +1,15 @@
+---------
+Day 5
+---------
+----------
+Cardio
+----------
+30 mins
+examples:
+Sprints
+Running
+Swimming
+Karate
+Sparring
+Exercise Bike
+Skipping
