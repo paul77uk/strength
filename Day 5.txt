@@ -11,7 +11,8 @@ Clean & Press
 1 Set 8-10 Reps
 1 Sets 6-8 Reps
 1 Set 4-6 Reps
-1 Set 1-4 Reps
+1 Set 2-4 Reps
+1 Set 1-2 Reps
 ---------------------
 Clean 
 --------------------
@@ -19,7 +20,8 @@ Clean
 1 Set 8-10 Reps
 1 Sets 6-8 Reps
 1 Set 4-6 Reps
-1 Set 1-4 Reps
+1 Set 2-4 Reps
+1 Set 1-2 Reps
 ---------------------
 Shouldering
 --------------------
@@ -27,7 +29,8 @@ Shouldering
 1 Set 8-10 Reps
 1 Sets 6-8 Reps
 1 Set 4-6 Reps
-1 Set 1-4 Reps
+1 Set 2-4 Reps
+1 Set 1-2 Reps
 ---------------------
 Snatch
 --------------------
@@ -35,4 +38,5 @@ Snatch
 1 Set 8-10 Reps
 1 Sets 6-8 Reps
 1 Set 4-6 Reps
-1 Set 1-4 Reps
+1 Set 2-4 Reps
+1 Set 1-2 Reps
