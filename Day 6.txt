@@ -8,15 +8,15 @@ Farmers Walk
 -------------------------------
 Shoulder Carry Wide - (Like Yoke)
 ------------------------------
-2 Sets 30 secs 52kg x 30 secs
+3 Sets 30 secs 52kg x 30 secs, 57kg x 30 secs, 62kg x 30 secs
 ----------------------------------------------
 Single Shoulder 2 Handed Carry
 ----------------------------------------------
-2 Sets 30 secs 41kg x 30 secs
+2 Sets 30 secs 41kg x 30 secs, 43.5kg x 30 secs
 ---------------------------------
 Shoulder Carry Narrow 
 --------------------------------
-2 Sets 30 secs 52kg x 30 secs
+3 Sets 30 secs 52kg x 30 secs, 57kg x 30 secs, 62kg x 30 secs
 -------------------------
 Bicep Hold Carry
 -------------------------
@@ -24,8 +24,8 @@ Bicep Hold Carry
 -------------------
 Crucifix Hold
 -------------------
-2 Sets 30 secs 22kg x 15 secs
+2 Sets 30 secs 22kg x 15 secs, 22kg x 20 secs
 -------------------
 Front Hold
 -------------------
-2 Sets 30 secs 22kg x 12 secs
+2 Sets 30 secs 22kg x 15 secs, 22kg x 20 secs
