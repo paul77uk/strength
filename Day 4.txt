@@ -7,12 +7,12 @@ Deadlift
 1 Set 10 Reps 82kg x 10
 1 Set 8 Reps 92kg x 8
 1 Set 6 Reps 97kg x 5
-3 Sets 3 Reps 107kg x 3, 112kg x 3, 117kg x 1
+3 Sets 3 Reps 107kg x 3, 112kg x 3, 117kg x 2
 ---------------
 Bent Row
 ---------------
-1 Set 10 reps 52kg x 10
-2 Sets 5 Reps 57kg x 8, 62kg x 6
+1 Set 10 reps 57kg x 8
+2 Sets 5 Reps 62kg x 7, 67kg x 5
 ---------------------
 One Arm Row
 ---------------------
@@ -30,13 +30,13 @@ Dumbbell PullOver
 ------------
 Beast Grip Deadlift 
 ------------
-1 Set 10 Reps 52kg x 9
-1 Set 8 Reps 57kg x 5
-1 Set 6 Reps 57kg x 6
-3 Sets 3 Reps 62kg x 4, 67kg x 2, 67kg x 2
+1 Set 10 Reps 52kg x 10
+1 Set 8 Reps 57kg x 7
+1 Set 6 Reps 62kg x 4
+3 Sets 3 Reps 67kg x 3, 72kg x 1, 77kg x 1
 ---------------------------------------------
 Farmers Walks - with Fat Gripz
 ---------------------------------------------
 1 Set 30 secs 52kg x 35 secs
 1 Set 20 secs 57kg x 15 secs
-3 Set 10 secs 62kg x 10 secs
+3 Set 10 secs 62kg x 11 secs
